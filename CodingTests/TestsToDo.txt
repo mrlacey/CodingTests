@@ -1,0 +1,5 @@
+IsPalindrome
+IsTriangle
+Sort
+Fibonacci Generator
+Prime Generator
